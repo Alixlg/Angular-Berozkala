@@ -1,0 +1,9 @@
+input{
+  margin: 1.8em;
+  padding: 0.5em;
+  width: 100vh;
+  border: 0.2em solid rgba(0, 0, 0, 0.26);
+  outline: none;
+  border-radius: 0.6em;
+  direction: rtl;
+}

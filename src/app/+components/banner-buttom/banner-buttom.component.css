@@ -1,0 +1,5 @@
+div {
+  display: flex;
+  flex-flow: row-reverse wrap;
+  padding: 0.2em;
+}
