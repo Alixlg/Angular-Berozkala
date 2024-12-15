@@ -1,6 +1,6 @@
 .content:hover {
-  outline: solid 2px rgb(76, 76, 76);
-  border-radius: 20px;
+  outline: solid 0.1em rgb(76, 76, 76);
+  border-radius: 1.8em;
   opacity: 90%;
 }
 
